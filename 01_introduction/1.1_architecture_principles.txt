@@ -1,0 +1,12 @@
+Primary goal of internet architecture: develop an effective technique for miltiplexed utilization of existing interconnected networks
+Secondary goals: 
+- Internet communications must continue despite loss of networks or gateways
+- Internet must support multiple types of communication services
+- Internet architecture must accomodate a variety of networks
+-   "          "        must permite distributed management of its resources
+-   "          "        must be cost effective
+-   "          "        must permite host attachment with a low level of effort
+- The resources used in the internet architecture must be accountable
+
+1.1.1 Packets, Connections and Datagrams
+

@@ -1,0 +1,5 @@
+Protocol : The official procedure or system of rules governing affairs of state or diplomatic occasions.
+Protocol Suite : A collection of related protocols is called a protocol suite
+Architecture or Reference Model : The design that specifies how various protocols of a protocol suite relate to each other and divide up tasks to be accomplished is called architecture or reference model for a protocol suite. For TCP/IP protocol suite, ARPANET Reference Model (ARM) [RFC0871[ is the architecture
+Gateways: Provide a traslation function between incompatible packet switched computer networks
+Concatenated netword or catenet or internetword : Offers a wide variety of services which help communication between networks.
